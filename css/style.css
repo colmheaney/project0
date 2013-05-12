@@ -1,0 +1,15 @@
+.menu_head {
+        cursor: pointer;
+        position: relative;
+}
+.menu_body {
+        display:none;
+}
+.menu_body a:hover {
+color: #000000;
+}
+.break-word{
+text-overflow: ellipsis;
+overflow: visible;
+white-space: normal;
+}
